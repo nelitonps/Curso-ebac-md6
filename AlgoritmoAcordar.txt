@@ -1,0 +1,14 @@
+INÍCIO
+1. Ao acordar, levanto da cama;
+2. Calço chinelo, vou para o banheiro;
+3. Escovo os dentes e lavo o rosto;
+4. Vou para a cozinha, pego o pó de café no armário;
+5. Após pegar o pó de café, o coloco dentro da cafeteira;
+6. Após colocar o pó na cafeteira, jogo água no compartimento 
+específico;
+7. Após inserir todos os ingredientes na máquina, aperto o botão de 
+ligar;
+8. Quando o café está pronto, pego a garrafa;
+9. Após pegar a garrafa, despejo o café dentro de uma caneca;
+10. Após colocar o café na caneca, bebo o café
+FIM
